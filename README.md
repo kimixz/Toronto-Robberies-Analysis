@@ -12,9 +12,11 @@ This repository contains the analysis of the Toronto Robberies dataset, covering
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <figcaption><strong>Comparison of areas targeted by robbers in Toronto. Points on the Toronto map shows the types of location
-most likely to be targeted. Green circles on the map represent incidents of Break
-and Enter, while purple circles indicate incidents of Auto Theft</strong></figcaption>
+<figcaption>
+  <strong>Comparison of areas targeted by robbers in Toronto.</strong>
+  <br />
+  <small>Points on the Toronto map show the types of locations most likely to be targeted. Green circles on the map represent incidents of Break and Enter, while purple circles indicate incidents of Auto Theft.</small>
+</figcaption>
     </td>
   </tr>
 </table>
