@@ -2,8 +2,8 @@
 This repository contains the analysis of the Toronto Robberies dataset, covering the period from 2014 to June 2022. The analysis aims to identify patterns and trends in robbery incidents across the city using various data analytics techniques.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f3d38626-a23e-459e-9492-ec903c63d60f" alt="2023-02-12 17 57 16" width="45%" height="auto" />
-  <img src="https://github.com/user-attachments/assets/de11f498-cb3f-463f-a432-c598f726bcf3" alt="points_red" width="45%" height="auto" />
+  <img src="https://github.com/user-attachments/assets/f3d38626-a23e-459e-9492-ec903c63d60f" alt="2023-02-12 17 57 16" height="200px" width="auto" />
+  <img src="https://github.com/user-attachments/assets/de11f498-cb3f-463f-a432-c598f726bcf3" alt="points_red" height="200px" width="auto" />
 </p>
 
 
