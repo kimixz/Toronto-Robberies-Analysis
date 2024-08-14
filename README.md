@@ -5,11 +5,9 @@ This repository contains the analysis of the Toronto Robberies dataset, covering
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/de11f498-cb3f-463f-a432-c598f726bcf3" alt="points_red" height="200px" width="auto" />
-      <figcaption>Points on the Toronto map show the types of locations most likely to be targeted.</figcaption>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f3d38626-a23e-459e-9492-ec903c63d60f" alt="2023-02-12 17 57 16" height="200px" width="auto" />
-      <figcaption>Green circles on the map represent incidents of Break and Enter, while purple circles indicate incidents of Auto Theft.</figcaption>
+      <img src="https://github.com/user-attachments/assets/f3d38626-a23e-459e-9492-ec903c63d60f" alt="2023-02-12 17 57 16" height="200px" width="auto" />   
     </td>
   </tr>
   <tr>
