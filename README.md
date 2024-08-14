@@ -1,4 +1,4 @@
-### Toronto Robberies Data Analysis (2014-2022)
+# Toronto Robberies Data Analysis (2014-2022)
 This repository contains the analysis of the Toronto Robberies dataset, covering the period from 2014 to June 2022. The analysis aims to identify patterns and trends in robbery incidents across the city using various data analytics techniques.
 
 ## Overview
