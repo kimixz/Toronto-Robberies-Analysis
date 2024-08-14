@@ -1,5 +1,7 @@
 # Toronto Robberies Data Analysis (2014-2022)
 This repository contains the analysis of the Toronto Robberies dataset, covering the period from 2014 to June 2022. The analysis aims to identify patterns and trends in robbery incidents across the city using various data analytics techniques.
+![2023-02-12 17 57 16](https://github.com/user-attachments/assets/f3d38626-a23e-459e-9492-ec903c63d60f)
+![points_red](https://github.com/user-attachments/assets/de11f498-cb3f-463f-a432-c598f726bcf3)
 
 ## Overview
 The project was developed as part of the EECS 6414 - Data Analytics and Visualization course at York University. The primary tools used for the analysis include Python for data processing and Tableau for data visualization.
